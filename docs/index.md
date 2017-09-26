@@ -1,4 +1,4 @@
-DePub is an open-source tool aimed particularly at the publishing industry.
+**DePub is an open-source tool aimed particularly at the publishing industry.**
 
 The aim of this project is to develop highly effective and cost-saving tool that will allow anyone - and particularly those with editorial judgement - efficiently to extract sample material for use in the marketing and promotion of books.
 
