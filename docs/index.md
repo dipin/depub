@@ -5,7 +5,7 @@ The aim of this project is to develop highly effective and cost-saving tool that
 ## Features
 
 * Direct extraction of text and cover images from EPUBs.
-* Processing of Markdown, DOCX and RTF files.
+* Processing of Markdown, DOCX, RTF, DocBook and LaTeX files.
 * Batch processing of folders full of data.
 * Intelligent assisted selection of the start point for reading.
 * Automatic extraction of required sample size, rounded to the nearest paragraph.
