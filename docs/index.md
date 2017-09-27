@@ -15,6 +15,7 @@ The aim of this project is to develop an effective, cost-saving tool that will a
 **Manage Data**
 
 ![DePub Manage Data screen](https://github.com/dipin/depub/docs/images/depub-1-manage-data.png "Manage Data")
+![testimage](http://arkesis.co.uk/site/templates/images/arkesis.png)
 
 **Acquire Data**
 
