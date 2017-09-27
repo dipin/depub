@@ -19,11 +19,11 @@ The aim of this project is to develop an effective, cost-saving tool that will a
 
 **Acquire Data**
 
-![DePub Acquire Data screen](https://github.com/dipin/depub/blob/master/docs/images/depub-2-acquire-data.png "Acquire Data")
+![DePub Acquire Data screen](https://github.com/dipin/depub/docs/images/depub-2-acquire-data.png?raw=true)
 
 **Select Text**
 
-![DePub Select Text screen](https://github.com/dipin/depub/blob/master/docs/images/depub-3-select-text.png "Logo Title Text 1")
+![DePub Select Text screen](https://github.com/dipin/depub/blob/master/docs/images/depub-3-select-text.png?raw=true)
 
 ## Using DePub
 
