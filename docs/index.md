@@ -14,15 +14,15 @@ The aim of this project is to develop an effective, cost-saving tool that will a
 
 **Manage Data**
 
-![Manage Data](https://github.com/dipin/depub/docs/images/depub-1-manage-data.png "Manage Data")
+![DePub Manage Data screen](https://github.com/dipin/depub/docs/images/depub-1-manage-data.png "Manage Data")
 
 **Acquire Data**
 
-![Acquire Data](https://github.com/dipin/depub/blob/master/docs/images/depub-2-acquire-data.png "Acquire Data")
+![DePub Acquire Data screen](https://github.com/dipin/depub/blob/master/docs/images/depub-2-acquire-data.png "Acquire Data")
 
 **Select Text**
 
-![Select Text](https://github.com/dipin/depub/blob/master/docs/images/depub-3-select-text.png "Logo Title Text 1")
+![DePub Select Text screen](https://github.com/dipin/depub/blob/master/docs/images/depub-3-select-text.png "Logo Title Text 1")
 
 ## Using DePub
 
