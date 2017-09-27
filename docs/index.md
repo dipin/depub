@@ -14,16 +14,15 @@ The aim of this project is to develop an effective, cost-saving tool that will a
 
 **Manage Data**
 
-![DePub Manage Data screen](https://github.com/dipin/depub/raw/master/docs/images/depub-3-select-text.png)
-![testimage](http://arkesis.co.uk/site/templates/images/arkesis.png)
+![DePub Manage Data screen](http://arkesis.co.uk/development/dipin/depub/images/depub-1-manage-data.png "Manage Data")
 
 **Acquire Data**
 
-![DePub Acquire Data screen](https://github.com/dipin/depub/docs/images/depub-2-acquire-data.png?raw=true)
+![DePub Acquire Data screen](http://arkesis.co.uk/development/dipin/depub/images/depub-2-acquire-data.png "Acquire Data")
 
 **Select Text**
 
-![DePub Select Text screen](https://github.com/dipin/depub/blob/master/docs/images/depub-3-select-text.png?raw=true)
+![DePub Select Text screen](http://arkesis.co.uk/development/dipin/depub/images/depub-3-select-text.png "Select Text")
 
 ## Using DePub
 
