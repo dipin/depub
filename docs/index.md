@@ -1,6 +1,6 @@
 **DePub is an open-source tool aimed particularly at the publishing industry.**
 
-The aim of this project is to develop highly effective and cost-saving tool that will allow anyone - and particularly those with editorial judgement - efficiently to extract sample material for use in the marketing and promotion of books.
+The aim of this project is to develop an effective, cost-saving tool that will allow anyone – and particularly those with the necessary editorial judgement – efficiently to extract sample material for use in the promotion and marketing of books.
 
 ## Features
 
@@ -12,7 +12,17 @@ The aim of this project is to develop highly effective and cost-saving tool that
 
 ## Screenshots
 
-[Images to come.]
+**Manage Data**
+
+![Manage Data](https://github.com/dipin/depub/blob/master/docs/images/depub-1-manage-data.png "Manage Data")
+
+**Acquire Data**
+
+![Acquire Data](https://github.com/dipin/depub/blob/master/docs/images/depub-2-acquire-data.png "Acquire Data")
+
+**Select Text**
+
+![Select Text](https://github.com/dipin/depub/blob/master/docs/images/depub-3-select-text.png "Logo Title Text 1")
 
 ## Using DePub
 
