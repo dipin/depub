@@ -1,4 +1,4 @@
-**DePub is an open-source tool aimed particularly at the book publishing industry.**
+**DePub Book Sampler is an open-source tool aimed particularly at the book publishing industry.**
 
 **The aim of this project is to develop an effective, cost-saving tool that will allow anyone to select and extract sample material efficiently from a variety of sources for use in the marketing of books and promotion of reading.**
 
