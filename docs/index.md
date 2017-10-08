@@ -24,13 +24,17 @@
 
 ![DePub Select Text screen](http://arkesis.co.uk/development/dipin/depub/images/depub-3-select-text.png "Select Text")
 
-## Using DePub
+## Using DePub Book Sampler
 
 DePub has been developed in [LiveCode](https://www.livecode.com), an excellent open-source rapid application development tool. This provides a really nice working UI along with high-speed processing of data.
 
 You can download either a pre-compiled OS X or Windows application, or download the .livecode file and compile it yourself.
 
-## Development
+## History
+
+DePub Book Sampler was developed as part of the DipIn project, made possible by funding from Innovate UK's IC Tomorrow programme.
+
+## Future development
 
 The initial aim of this project is to develop DePub to the point where it can be released as a "version 1" application.
 
